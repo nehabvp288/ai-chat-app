@@ -59,7 +59,7 @@ A responsive AI-powered chat interface that mimics ChatGPT. Built with **React**
 ## 📬 Contact
 
 **Neha Joshi**  
-[LinkedIn][(https://www.linkedin.com/in/nehabvp288) ](https://www.linkedin.com/in/neha-joshi-722b29257 ) 
+[LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257)  
 [GitHub](https://github.com/nehabvp288)
 
 ---
