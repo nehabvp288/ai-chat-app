@@ -15,9 +15,6 @@ A responsive AI-powered chat interface that mimics ChatGPT. Built with **React**
 - 💡 Debounced user input
 - 🧪 Future: Add unit tests with Jest/RTL
 
-## 📸 Screenshots
-
-(Add a screenshot of your app here, optional but great for resumes)
 
 ## 🛠️ Stack
 
